@@ -1,0 +1,51 @@
+1. Sprint Planning (Planificación del Sprint)
+Se define qué se va a hacer en el Sprint.
+
+El equipo selecciona ítems del Product Backlog (lista de funcionalidades/prioridades)
+para formar el Sprint Backlog (trabajo para el Sprint actual).
+
+Se determina un objetivo de Sprint claro.
+
+Duración sugerida: máximo 4-8 horas (para Sprints de 2 semanas).
+
+2. Sprint (Ejecución del Sprint)
+Es el corazón de Scrum, una iteración fija (normalmente de 1 a 4 semanas).
+
+El equipo trabaja en las tareas del Sprint Backlog.
+
+No se cambia el alcance del Sprint mientras esté en curso.
+
+Al final del Sprint, el producto debe estar en estado potencialmente entregable.
+
+3. Daily Scrum (Reunión Diaria)
+Reunión de 15 minutos todos los días del Sprint.
+
+Cada miembro responde brevemente:
+
+¿Qué hice ayer?
+
+¿Qué haré hoy?
+
+¿Hay algo que me bloquea?
+
+El objetivo es coordinarse y mantener visibilidad del avance.
+
+4. Sprint Review (Revisión del Sprint)
+Se presenta el trabajo completado al Product Owner y a los stakeholders.
+
+Se recopila feedback.
+
+Puede influir en el orden y contenido del Product Backlog futuro.
+
+Duración sugerida: 1-2 horas.
+
+5. Sprint Retrospective (Retrospectiva del Sprint)
+Reunión interna del equipo para reflexionar:
+
+¿Qué hicimos bien?
+¿Qué podemos mejorar?
+¿Qué acciones concretas tomamos para el próximo Sprint?
+
+Se busca la mejora continua.
+
+Duración sugerida: 1 hora.
